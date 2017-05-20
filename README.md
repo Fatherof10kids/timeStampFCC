@@ -1,0 +1,1 @@
+.gitignore file must have node_modules in order to ignore node_modules then in terminal type <git init>
